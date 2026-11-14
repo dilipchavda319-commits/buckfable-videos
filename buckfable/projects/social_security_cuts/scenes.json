@@ -1,0 +1,41 @@
+{
+  "title": "Social Security Cuts",
+  "total": 54.5,
+  "timestamps": "timestamps.txt",
+  "chip_y": 200,
+  "scenes": [
+    {"image": "BF_SS_01_HOOK.png", "start": 0.0, "end": 7.65, "zoom": [1.0, 1.09],
+     "punch": ["440"],
+     "sfx": [{"t": 0.0, "sound": "hit", "gain": 0.9}, {"phrase": "440", "sound": "tick", "offset": -0.05}]},
+    {"image": "BF_SS_02_TERRIFYING.png", "start": 7.65, "end": 11.83, "zoom": [1.0, 1.07],
+     "sfx": [{"t": 0.05, "sound": "heartbeat"}]},
+    {"image": "BF_SS_03_TRUST_FUND.png", "start": 11.83, "end": 19.23, "zoom": [1.0, 1.07],
+     "punch": ["2032"],
+     "sfx": [{"phrase": "2032", "sound": "tick", "offset": -0.05}]},
+    {"image": "BF_SS_04_78_PERCENT.png", "start": 19.23, "end": 27.25, "zoom": [1.0, 1.07],
+     "punch": ["78"], "cut_sound": "none",
+     "sfx": [{"t": -1.3, "sound": "riser"}, {"t": 0.0, "sound": "hit", "gain": 0.9},
+             {"phrase": "78", "sound": "tick", "offset": -0.05}]},
+    {"image": "BF_SS_05_2000_CHECK.png", "start": 27.25, "end": 32.10, "zoom": [1.0, 1.07],
+     "punch": ["2000"],
+     "sfx": [{"phrase": "2000", "sound": "coin", "offset": -0.05}]},
+    {"image": "BF_SS_06_1560_RESULT.png", "start": 32.10, "end": 37.81, "zoom": [1.0, 1.07],
+     "punch": ["1560"],
+     "sfx": [{"phrase": "22", "sound": "cashfly", "offset": -0.1}, {"phrase": "1560", "sound": "tick", "offset": -0.05}]},
+    {"image": "BF_SS_07_440_LOSS.png", "start": 37.81, "end": 40.98, "zoom": [1.0, 1.08],
+     "punch": ["440"], "cut_sound": "none",
+     "sfx": [{"t": 0.0, "sound": "hit", "gain": 0.9}, {"phrase": "less", "sound": "cashfly", "offset": -0.1}]},
+    {"image": "BF_SS_08_NOT_DISAPPEAR.png", "start": 40.98, "end": 47.56, "zoom": [1.0, 1.04],
+     "cut_gain": 0.35, "sfx": []},
+    {"image": "BF_SS_09_CONGRESS.png", "start": 47.56, "end": 49.44, "zoom": [1.04, 1.0],
+     "cut_gain": 0.35, "sfx": []},
+    {"image": "BF_SS_10_CTA.png", "start": 49.44, "end": 54.5, "zoom": [1.0, 1.06],
+     "sfx": [{"phrase": "follow", "sound": "bell", "offset": -0.05}]}
+  ],
+  "overlays": [
+    {"text": "2026 TRUSTEES REPORT  •  PROJECTION", "from": 12.3, "to": 19.23},
+    {"text": "SCHEDULED BENEFITS  •  PROJECTION", "from": 20.9, "to": 27.25},
+    {"text": "HYPOTHETICAL EXAMPLE", "from": 29.1, "to": 40.98},
+    {"text": "PROJECTION  •  NOT A GUARANTEE", "from": 41.2, "to": 47.56}
+  ]
+}

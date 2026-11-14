@@ -1,0 +1,130 @@
+[Total: not given in the request. Measured audio length: 54.50 s; last spoken word ends at about 54.25 s]
+FILE: Social_Security_Cuts.m4a  |  Language: English
+
+NOTE: the comma inside '$2,000' and '$1,560' is a thousands separator, not a punctuation mark, and has no time stamp. The '%' and '$' signs are spoken as 'percent' and 'dollars'.
+
+FORMAT: [start --> end] script text  <punctuation> @ end-time
+The time stamp at each punctuation mark = the middle of the pause the narrator makes there (the moment the phrase ends).
+
+Final Script:Imagine checking your retirement account and discovering you're about to lose $440 every single month.
+
+Sounds terrifying, right?
+
+Here's what's happening with Social Security in America.
+
+According to the 2026 Trustees Report, the retirement trust fund could run out of reserves in the fourth quarter of 2032.
+
+And here's the shocking part.
+
+If Congress doesn't act, incoming revenue would cover only 78% of scheduled retirement benefits.
+
+Let's put that into perspective.
+
+If your monthly retirement check is $2,000, a hypothetical 22% reduction would leave you with just $1,560.
+
+That's $440 less every month.
+
+But this doesn't mean Social Security payments will disappear. It means the program could struggle to pay the full promised amount.
+
+Congress still has time to act.
+
+Would you be financially prepared for a change like this?
+
+Follow BuckFable. Money Has a Story.
+==============================================================================
+
+PARAGRAPH 1
+[00:00.00 --> 00:07.65]  Imagine checking your retirement account and discovering you're about to lose $440 every single month.   <FULL STOP> @ 00:07.65
+
+PARAGRAPH 2
+[00:07.65 --> 00:08.72]  Sounds terrifying,   <COMMA> @ 00:08.72
+[00:08.72 --> 00:09.12]  right?   <QUESTION MARK> @ 00:09.12
+
+PARAGRAPH 3
+[00:09.12 --> 00:11.83]  Here's what's happening with Social Security in America.   <FULL STOP> @ 00:11.83
+
+PARAGRAPH 4
+[00:11.83 --> 00:14.39]  According to the 2026 Trustees Report,   <COMMA> @ 00:14.39
+[00:14.39 --> 00:19.23]  the retirement trust fund could run out of reserves in the fourth quarter of 2032.   <FULL STOP> @ 00:19.23
+
+PARAGRAPH 5
+[00:19.23 --> 00:20.82]  And here's the shocking part.   <FULL STOP> @ 00:20.82
+
+PARAGRAPH 6
+[00:20.82 --> 00:22.41]  If Congress doesn't act,   <COMMA> @ 00:22.41
+[00:22.41 --> 00:27.25]  incoming revenue would cover only 78% of scheduled retirement benefits.   <FULL STOP> @ 00:27.25
+
+PARAGRAPH 7
+[00:27.25 --> 00:29.07]  Let's put that into perspective.   <FULL STOP> @ 00:29.07
+
+PARAGRAPH 8
+[00:29.07 --> 00:32.10]  If your monthly retirement check is $2,000,   <COMMA> @ 00:32.10
+[00:32.10 --> 00:37.81]  a hypothetical 22% reduction would leave you with just $1,560.   <FULL STOP> @ 00:37.81
+
+PARAGRAPH 9
+[00:37.81 --> 00:40.98]  That's $440 less every month.   <FULL STOP> @ 00:40.98
+
+PARAGRAPH 10
+[00:40.98 --> 00:44.16]  But this doesn't mean Social Security payments will disappear.   <FULL STOP> @ 00:44.16
+[00:44.16 --> 00:47.56]  It means the program could struggle to pay the full promised amount.   <FULL STOP> @ 00:47.56
+
+PARAGRAPH 11
+[00:47.56 --> 00:49.44]  Congress still has time to act.   <FULL STOP> @ 00:49.44
+
+PARAGRAPH 12
+[00:49.44 --> 00:52.06]  Would you be financially prepared for a change like this?   <QUESTION MARK> @ 00:52.06
+
+PARAGRAPH 13
+[00:52.06 --> 00:53.14]  Follow BuckFable.   <FULL STOP> @ 00:53.14
+[00:53.14 --> 00:54.25]  Money Has a Story.   <FULL STOP> @ 00:54.25
+
+==============================================================================
+CLEAN TIMELINE (one line per punctuation mark)
+==============================================================================
+01 | 00:07.65 |   7.65s | '.' | ...$440 every single month.
+02 | 00:08.72 |   8.72s | ',' | ...Sounds terrifying,
+03 | 00:09.12 |   9.12s | '?' | ...right?
+04 | 00:11.83 |  11.83s | '.' | ...Social Security in America.
+05 | 00:14.39 |  14.39s | ',' | ...the 2026 Trustees Report,
+06 | 00:19.23 |  19.23s | '.' | ...fourth quarter of 2032.
+07 | 00:20.82 |  20.82s | '.' | ...here's the shocking part.
+08 | 00:22.41 |  22.41s | ',' | ...If Congress doesn't act,
+09 | 00:27.25 |  27.25s | '.' | ...of scheduled retirement benefits.
+10 | 00:29.07 |  29.07s | '.' | ...put that into perspective.
+11 | 00:32.10 |  32.10s | ',' | ...retirement check is $2,000,
+12 | 00:37.81 |  37.81s | '.' | ...you with just $1,560.
+13 | 00:40.98 |  40.98s | '.' | ...$440 less every month.
+14 | 00:44.16 |  44.16s | '.' | ...Security payments will disappear.
+15 | 00:47.56 |  47.56s | '.' | ...the full promised amount.
+16 | 00:49.44 |  49.44s | '.' | ...has time to act.
+17 | 00:52.06 |  52.06s | '?' | ...a change like this?
+18 | 00:53.14 |  53.14s | '.' | ...Follow BuckFable.
+19 | 00:54.25 |  54.25s | '.' | ...Money Has a Story.
+
+==============================================================================
+VOICE / SYNC INSTRUCTIONS FOR AUTOMATION AI
+==============================================================================
+1. Total timeline = 54.50 s. The last word ('Story.') ends at about 00:54.25. Do not exceed 00:54.50.
+2. Show each text chunk from its [start] time until its [end] time; change the caption at every time stamp above (19 cuts). 'Sounds terrifying,' (00:07.65-00:08.72) and 'right?' (00:08.72-00:09.12) are very quick; keep them as one fast on-screen beat if needed, but keep both cut times.
+3. Pause lengths in the voice-over: comma about 0.09-0.32 s, full stop / question mark about 0.17-0.47 s. Longest pauses: 00:07.65 (after '...every single month.', about 0.47 s), 00:20.82 (after 'the shocking part.', about 0.47 s), 00:37.81, 00:22.41, 00:52.06 and 00:53.14.
+4. Pacing: serious, urgent finance-news tone, medium-fast. Build-up on the opening sentence (00:00-00:07.65), a short suspense beat after 'Sounds terrifying, right?', a slower, clear delivery on all numbers ('$440', '2026', '2032', '78%', '$2,000', '22%', '$1,560') and on 'Congress still has time to act.' (00:47.56-00:49.44) as a calmer, reassuring line. Friendly, engaging tone for the final question and 'Follow BuckFable. Money Has a Story.'
+5. Emphasis: '$440 every single month', 'Social Security', '2026 Trustees Report', 'fourth quarter of 2032', 'shocking part', "doesn't act", '78%', '$2,000', 'hypothetical 22% reduction', '$1,560', '$440 less', "doesn't mean ... will disappear", 'Congress still has time to act', 'financially prepared', 'BuckFable'.
+6. Suggested visual beats: hook ($440 loss every month) 0-7.7, 'terrifying, right?' 7.7-9.1, Social Security in America 9.1-11.8, 2026 Trustees Report and 2032 reserves date 11.8-19.2, shocking part: only 78% of scheduled benefits 19.2-27.3, perspective 27.3-29.1, example $2,000 check to $1,560 (22% reduction) 29.1-37.8, $440 less every month 37.8-41.0, Social Security will not disappear, but may struggle to pay in full 41.0-47.6, Congress still has time 47.6-49.4, viewer question 49.4-52.1, follow BuckFable 52.1-54.3.
+7. Content note: keep the words 'could', 'hypothetical' and 'scheduled' visible on screen, because the numbers are projections and an example, not guaranteed outcomes.
+8. Time stamps were detected from pauses in the audio and matched to the script by speech rhythm. Less certain (check +/- 0.1-0.2 s): 00:09.12 (a second pause at 00:09.46 is possible), 00:11.83, 00:14.39 (very weak pause) and 00:44.16.
+
+==============================================================================
+10 images guidance for editing
+==============================================================================
+
+Contains exactly:
+- BF_SS_01_HOOK.png — shocked stickman, -$440 Financial Loss
+- BF_SS_02_TERRIFYING.png — worried, retirement statement + ?
+- BF_SS_03_TRUST_FUND.png — 2032 calendar, Retirement Reserve, 2026 Trustees Report
+- BF_SS_04_78_PERCENT.png — huge 78%, 78/100 visual
+- BF_SS_05_2000_CHECK.png — $2,000 retirement check
+- BF_SS_06_1560_RESULT.png — $2,000 → $1,560, 22% reduction
+- BF_SS_07_440_LOSS.png — $440 LESS, bills flying away
+- BF_SS_08_NOT_DISAPPEAR.png — $2,000 vs $1,560 stacks, payments continue
+- BF_SS_09_CONGRESS.png — Capitol-inspired building, hopeful stickman
+- BF_SS_10_CTA.png — thoughtful stickman, ?, BuckFable ending with space for logo
