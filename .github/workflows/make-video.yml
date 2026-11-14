@@ -1,0 +1,33 @@
+name: Make BuckFable Video
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Project folder name inside buckfable/projects"
+        default: social_security_cuts
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PROJECT: ${{ inputs.project }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y ffmpeg
+          pip install pillow numpy
+      - name: Build video
+        run: python buckfable/engine/build.py --project "buckfable/projects/$PROJECT" --out out
+      - uses: actions/upload-artifact@v4
+        with:
+          name: buckfable-video
+          path: |
+            out/video.mp4
+            out/qc_sheet.jpg
+            out/subtitles.srt
+            out/report.json
